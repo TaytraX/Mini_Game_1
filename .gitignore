@@ -7,7 +7,8 @@ build/
 
 ### IntelliJ IDEA ###
 .idea/
-renderer/rendering
+renderer/rendering/target
+renderer/rendering/Cargo.lock
 *.iws
 *.iml
 *.ipr
